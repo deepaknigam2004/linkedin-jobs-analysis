@@ -4,7 +4,7 @@ This repository contains a comprehensive analysis of jobs employment data for di
 ![Dashboard](https://github.com/deepaknigam2004/linkedin-jobs-analysis/assets/144211777/65bb7c78-950c-4ee9-8113-a2723f1374b8)
 
 
-Certainly! Let's dive into the details of the LinkedIn Jobs Statistics Analysis:
+Describe LinkedIn Jobs Statistics Analysis:
 
 1. **Company Location Distribution:**
    - We'll create a map that highlights job postings across North America. The varying shades of blue will indicate the concentration of opportunities in different regions. For instance, we'll see more job listings in tech hubs like Silicon Valley or Seattle.
@@ -44,5 +44,3 @@ Certainly! Let's dive into the details of the LinkedIn Jobs Statistics Analysis:
 
 6. **Salary Range:**
    - We'll include an adjustable salary range slider, with the default value set at $214,500. Users can explore salary expectations based on their preferences.
-
-Feel free to provide any additional preferences or specific data points you'd like to emphasize, and I'll incorporate them into the document! 😊
